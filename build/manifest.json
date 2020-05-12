@@ -1,0 +1,9 @@
+{
+	"short_name": "SparQ",
+	"name": "SparQ Studios",
+	"icons": [],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}

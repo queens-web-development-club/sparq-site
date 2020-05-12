@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edc16925.chunk.css",
+    "main.js": "/static/js/main.a86c6bc9.chunk.js",
+    "main.js.map": "/static/js/main.a86c6bc9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
+    "static/js/2.76a7397e.chunk.js": "/static/js/2.76a7397e.chunk.js",
+    "static/js/2.76a7397e.chunk.js.map": "/static/js/2.76a7397e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a83869d365580132e196665ca2181e78.js": "/precache-manifest.a83869d365580132e196665ca2181e78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.edc16925.chunk.css.map": "/static/css/main.edc16925.chunk.css.map",
+    "static/js/2.76a7397e.chunk.js.LICENSE": "/static/js/2.76a7397e.chunk.js.LICENSE",
+    "static/media/CopyrightSparQ.svg": "/static/media/CopyrightSparQ.ae47095a.svg",
+    "static/media/Dunin.jpg": "/static/media/Dunin.266ebaeb.jpg",
+    "static/media/Facebook.svg": "/static/media/Facebook.fcf0ea7b.svg",
+    "static/media/IMG_8854.jpg": "/static/media/IMG_8854.4366d319.jpg",
+    "static/media/Home.css": "/static/media/IMG_8867.0cb05779.jpg",
+    "static/media/Instagram.svg": "/static/media/Instagram.e2000076.svg",
+    "static/media/Send.svg": "/static/media/Send.a761714d.svg",
+    "static/media/SparQ.svg": "/static/media/SparQ.f9e429c9.svg",
+    "static/media/Contact.css": "/static/media/WindowPicture.bb9ef7c8.jpg",
+    "static/media/About.css": "/static/media/workshop.f5ec36c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea588d5.js",
+    "static/js/2.76a7397e.chunk.js",
+    "static/css/main.edc16925.chunk.css",
+    "static/js/main.a86c6bc9.chunk.js"
+  ]
+}
